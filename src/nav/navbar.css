@@ -1,0 +1,35 @@
+/* CSS Styling */
+.navbar {
+    background-color: #adadad;
+    padding: 5px;
+   }
+   .navbar-nav {
+    padding: 0;
+   }   
+   .navbar-brand img {
+    height: 100px;
+    border-radius: 50px;
+   }
+   
+   .navbar-nav .nav-link {
+    color: rgb(36, 36, 36);
+    font-size: 18px;
+    font-weight: bold;
+   }
+   
+   .navbar-nav .nav-link:hover {
+    color:#007bff;
+   }
+   
+   .navbar-nav .nav-item:last-child .nav-link {
+    padding-right: 0;
+   }
+   
+   .dropdown-menu {
+    background-color: #007bff;
+    color: white;
+   }
+   
+   .dropdown-menu .dropdown-item:hover {
+    background-color: #0056b3;
+   }
