@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cc1-react/static/css/main.94d818ab.css",
+    "main.js": "/cc1-react/static/js/main.9e4ed454.js",
+    "static/media/logo for my com 0 (1).png": "/cc1-react/static/media/logo for my com 0 (1).776208ac31145b0321b9.png",
+    "static/media/img4.jpg": "/cc1-react/static/media/img4.9e05ec28e0105cd0b2f8.jpg",
+    "static/media/img5.jpg": "/cc1-react/static/media/img5.b406ec68d3c69a90dad0.jpg",
+    "static/media/img3.jpg": "/cc1-react/static/media/img3.35aa3736921bc8af1987.jpg",
+    "static/media/img1.jpg": "/cc1-react/static/media/img1.ba81f4203130e141418b.jpg",
+    "static/media/img2.jpg": "/cc1-react/static/media/img2.1a066bed39c7d9a369a0.jpg",
+    "static/media/united-kingdom.svg": "/cc1-react/static/media/united-kingdom.2d19fed4fb288f7b8a8591bbe3b70429.svg",
+    "static/media/spain.svg": "/cc1-react/static/media/spain.32e1e4891a5c1d5ce79f04ec7671d151.svg",
+    "index.html": "/cc1-react/index.html",
+    "static/media/france.svg": "/cc1-react/static/media/france.40c79af5ce5231775ae018679c075255.svg",
+    "main.94d818ab.css.map": "/cc1-react/static/css/main.94d818ab.css.map",
+    "main.9e4ed454.js.map": "/cc1-react/static/js/main.9e4ed454.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94d818ab.css",
+    "static/js/main.9e4ed454.js"
+  ]
+}
